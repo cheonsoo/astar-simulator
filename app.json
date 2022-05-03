@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "astar-simulator",
+    "slug": "astar-simulator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "astar-simulator"
+}
