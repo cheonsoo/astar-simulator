@@ -1,14 +1,12 @@
 {
   "expo": {
     "name": "astar-simulator",
-    "owner": "chance",
-    "githubUrl": "https://github.com/cheonsoo/astar-simulator",
     "slug": "astar-simulator",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icons/ios/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "icon": "./assets/icons/ios/ios-icon.png",
     "splash": {
-      "image": "./assets/icons/ios/AppScreen.jpg",
+      "image": "./assets/icons/ios/AppScreen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -25,7 +23,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icons/android/ic_launcher_normal/res/mipmap-xxxhdpi/ic_launcher.png",
+        "foregroundImage": "./assets/icons/android/1024.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.astarsimulator",
@@ -35,5 +33,5 @@
   "web": {
     "favicon": "./assets/icons/favicon.png"
   },
-  "name": "astar-simulator"
+  "displayName": "astar-simulator"
 }
