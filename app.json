@@ -2,11 +2,11 @@
   "expo": {
     "name": "astar-simulator",
     "slug": "astar-simulator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icons/ios/ios-icon.png",
+    "icon": "./assets/icons/ios/ios-icon-AppStore-noAlpha.png",
     "splash": {
-      "image": "./assets/icons/ios/AppScreen.png",
+      "image": "./assets/icons/ios/AppScreen-noAlpha.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
